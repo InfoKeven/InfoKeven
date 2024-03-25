@@ -24,9 +24,6 @@
   ##
 
   <div>
-    <a href="https://discord.com/channels/@me" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Icon Gmail">  </a>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon Linkedin">  </a>
+    <a href="https://discord.com/channels/@me" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Icon Discord"></a>
+    <a href="https://www.linkedin.com/in/keven-pereira-2a910b296/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon Linkedin"></a>
   </div>
-
-
-  
