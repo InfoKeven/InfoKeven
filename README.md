@@ -26,5 +26,5 @@
     <a href="https://www.linkedin.com/in/keven-pereira-2a910b296/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon Linkedin"></a>
   </div>
 
-![Snake animation](https://github.com/InfoKeven/InfoKeven/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/InfoKeven/blob/output/github-contribution-grid-snake.svg)
   
