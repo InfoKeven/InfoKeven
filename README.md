@@ -226,8 +226,7 @@ Conhecimento 3
  Construir projetos cada vez mais completos e relevantes
 📊 GitHub
 <div align="center"> <a href="https://github.com/InfoKeven"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InfoKeven&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoKeven&layout=compact&langs_count=8&theme=dracula"/> </a> </div>
-📫 Contato
-<div> <a href="https://www.linkedin.com/in/keven-pereira-2a910b296/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:pkeven947@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"> </a> <a href="https://github.com/InfoKeven" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
+
 🐍 Minha atividade no GitHub
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InfoKeven/InfoKeven/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InfoKeven/InfoKeven/output/github-contribution-grid-snake.svg"> <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/InfoKeven/InfoKeven/output/github-contribution-grid-snake.svg"> </picture>
 
