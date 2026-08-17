@@ -20,6 +20,30 @@ Tenho interesse principalmente em **Desenvolvimento Web, Back-end e Desenvolvime
 
 ---
 
+## 📫 Contato
+
+<div align="left">
+
+<a href="mailto:pkeven947@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+</a>
+
+<a href="https://www.linkedin.com/in/keven-pereira-2a910b296/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/InfoKeven" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+📧 **E-mail:** pkeven947@gmail.com  
+💼 **LinkedIn:** [Keven Pereira](https://www.linkedin.com/in/keven-pereira-2a910b296/)  
+💻 **GitHub:** [@InfoKeven](https://github.com/InfoKeven)
+
+---
+
 ## 📈 Minha evolução
 
 ``text
@@ -32,8 +56,6 @@ Lógica de programação
 PHP
     ↓
 SQL + PostgreSQL
-    ↓
-APIs
     ↓
 Aplicações completas
     ↓
@@ -64,7 +86,6 @@ Figma
 🐘 PHP
 🗄️ SQL e PostgreSQL
 🌐 Desenvolvimento Web
-🔗 APIs
 🔧 Git e GitHub
 🧠 Lógica de programação
 🏗️ Organização e estrutura de aplicações
@@ -209,3 +230,4 @@ Conhecimento 3
 <div> <a href="https://www.linkedin.com/in/keven-pereira-2a910b296/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:pkeven947@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"> </a> <a href="https://github.com/InfoKeven" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
 🐍 Minha atividade no GitHub
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InfoKeven/InfoKeven/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InfoKeven/InfoKeven/output/github-contribution-grid-snake.svg"> <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/InfoKeven/InfoKeven/output/github-contribution-grid-snake.svg"> </picture>
+
